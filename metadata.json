@@ -1,0 +1,6 @@
+{
+  "name": "Reliable HR Solutions Employee Hub",
+  "description": "Employee portal for Reliable HR Solutions featuring Health Insurance e-Card, Spine HR guide, payslips, and direct HR support contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
